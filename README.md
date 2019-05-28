@@ -1,2 +1,2 @@
 # Retail Manager
-A retail managment system built by YalitCo
+A retail managment system built by Mehdi khosravi
